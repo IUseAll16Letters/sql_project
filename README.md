@@ -1,4 +1,4 @@
-# geekbrains SQL-basis result work
+# SQL-basics final work
 The database for audiotechnics shop
 
 ![project_ERD](https://user-images.githubusercontent.com/87437166/169364080-dd3796d3-b46a-4340-b19c-482eef2c50f5.png)
